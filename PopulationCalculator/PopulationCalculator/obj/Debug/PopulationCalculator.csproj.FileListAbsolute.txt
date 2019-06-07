@@ -1,0 +1,7 @@
+C:\Users\AJ\Documents\Visual Studio 2017\Projects\PopulationCalculator\PopulationCalculator\bin\Debug\PopulationCalculator.exe.config
+C:\Users\AJ\Documents\Visual Studio 2017\Projects\PopulationCalculator\PopulationCalculator\bin\Debug\PopulationCalculator.exe
+C:\Users\AJ\Documents\Visual Studio 2017\Projects\PopulationCalculator\PopulationCalculator\bin\Debug\PopulationCalculator.pdb
+C:\Users\AJ\Documents\Visual Studio 2017\Projects\PopulationCalculator\PopulationCalculator\obj\Debug\PopulationCalculator.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Documents\Visual Studio 2017\Projects\PopulationCalculator\PopulationCalculator\obj\Debug\PopulationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\AJ\Documents\Visual Studio 2017\Projects\PopulationCalculator\PopulationCalculator\obj\Debug\PopulationCalculator.exe
+C:\Users\AJ\Documents\Visual Studio 2017\Projects\PopulationCalculator\PopulationCalculator\obj\Debug\PopulationCalculator.pdb
